@@ -1,8 +1,9 @@
 ## Welcome to my GitHub profile
 
-###
+### Monedit
+An flutter app to manage personal finances. You can see some screenshots and examples below. This project is still in progress.
 
-###
+### 
 
 ### Sadly some repositories are private
 
