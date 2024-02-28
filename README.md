@@ -3,12 +3,16 @@
 ### Monedit
 An flutter app to manage personal finances. You can see some screenshots and examples below. This project is still in progress.
 
-### 
+###  
 
-### Sadly some repositories are private
+### Sadly some repositories are private :(
 
 ##### White Cat Games - Cards Of Prophecy
+
+
 ##### White Cat Games - Web page
+The web page is still under construction and the domain is not visible. As such here are some quick screenshots of my work!
+
 ##### Mirage
 
 
