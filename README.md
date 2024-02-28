@@ -1,14 +1,14 @@
 ### Welcome to my GitHub profile
 
-##  
+####
 
-##
+####
 
-## Sadly some repositories are private
+#### Sadly some repositories are private
 
-# White Cat Games - Cards Of Prophecy
-# White Cat Games - Web page
-# Mirage
+##### White Cat Games - Cards Of Prophecy
+##### White Cat Games - Web page
+##### Mirage
 
 
 <!--
