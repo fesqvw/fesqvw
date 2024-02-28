@@ -16,7 +16,7 @@ The web page is still under construction and the domain is not visible. As such 
 
 #### Advanced Computer Graphics - Realistic Renderer 
 
-#### Blockchain intrusion detection system.
+#### Blockchain intrusion detection system
 
 
 <!--
