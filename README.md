@@ -1,7 +1,9 @@
 ## Welcome to my GitHub profile
 
-### Monedit
+#### Monedit
 An flutter app to manage personal finances. You can see some screenshots and examples below. This project is still in progress.
+
+#### DisPlace
 
 ### Sadly some repositories are private :(
 
@@ -14,7 +16,6 @@ The web page is still under construction and the domain is not visible. As such 
 
 #### Advanced Computer Graphics - Realistic Renderer 
 
-#### DisPlace
 
 <!--
 **fesqvw/fesqvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
