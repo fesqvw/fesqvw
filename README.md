@@ -1,5 +1,5 @@
 
-## Welcome welcome *[insert preferred naming]*, come right in...
+## Welcome *[insert preferred naming]*, come right in...
 You have stumbled upong my **very** barebones GitHub page! 
 Please excuse me for its inadequacy... I have been busy. 
 
