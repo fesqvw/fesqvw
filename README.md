@@ -1,6 +1,6 @@
 
-## Welcome to my GitHub profile. 
-Much of this page is work in progress, so please excuse me if it is very barebones.
+## Welcome *[insert preferred naming]*
+You have stumbled upong my **very** barebones GitHub! Please excuse me for its inadequacy, do not hesitate to send me a message for questions :D
 
 #### Highlight Projects : 
   - ELCA - Building energy consumption estimation
