@@ -1,6 +1,7 @@
 
-## Welcome *[insert preferred naming]*
-You have stumbled upong my **very** barebones GitHub! Please excuse me for its inadequacy, do not hesitate to send me a message for questions :D
+## Welcome welcome *[insert preferred naming]*, come right in...
+You have stumbled upong my **very** barebones GitHub page! 
+Please excuse me for its inadequacy... I have been busy. 
 
 #### Highlight Projects : 
   - ELCA - Building energy consumption estimation
